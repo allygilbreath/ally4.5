@@ -1,4 +1,70 @@
-/* Add screen styles below */
-a.active {
-    font-weight: bold;
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1e1e1e;
+    color: #bebec8;
+    margin: 0;
+    padding: 0;
+    text-align: center;
 }
+h1 {
+    background-color: #bebec8;
+    color: #1e1e1e;
+    font-size: 32px;
+    text-align: left;
+    width: 100;
+    padding: 20px;
+    margin: 0;
+}
+
+
+
+
+div {
+    width: 80%;
+    max-width: 800px;
+    margin: auto;
+    margin-top: 32px;
+}
+h2 {
+    font-size: 48px;
+    line-height: 1.5;
+    margin-bottom: 32px;
+}
+
+
+h3 {
+    font-size: 24px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+div
+.profile-section {
+    margin-top: 32px;
+}
+
+
+.profile-section img {
+    width: 150px;
+    float: left;
+    margin-right: 32px;
+    margin-bottom: 16px;
+}
+
+
+
+
+.profile-text {
+    text-align: left; /
+}
+
+
+.profile-text h3 {
+    margin-top: 0;
+}
+
+
+.profile-text p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+div
